@@ -4,9 +4,7 @@ This is my first hardware project. Im converting my old used pc power supply int
 ## Key Feature 
 * **Variable Voltage & Current using ZK-4KX module**
 * **Includes a 10A Fuse and a 10W 10Ω dummy load to ensure the poweee supply stays stable and safe during use**
-* **Giving a second life to the old poweee supply** 
-
-## The Design
+* **Giving a second life to the old poweee supply**
 
 ## Bill of Materials
 | Component | Qty | Price (Est.) | Link |
