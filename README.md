@@ -18,4 +18,5 @@ This is my first hardware project. Im converting my old used pc power supply int
 | **TB-2506 Terminal** | 1 | $1.20 | [Alibaba Link](https://www.alibaba.com/showroom/tb-2506-terminal-block.html) |
 | **Binding Posts** | 2 | $0.80 | [Alibaba Link](https://www.alibaba.com/showroom/binding-post-connector.html) |
 
-**Total Budget: ~$8.50 USD**
+**Total: ~$8.50 USD**
+*i know its look cheap, but in my country $8.50 usd are not that cheap*
