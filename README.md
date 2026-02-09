@@ -1,12 +1,13 @@
 # DIY Bench Poweee Supply
-
-## Description
-This is my first hardware project. Im converting my old used pc power supply into a variable bench power supply using a ZK-4KX module. This tool will help me with my future electronic thingy (definitely)
+This is my first hardware project. Im converting my old used pc power supply into a bench power supply using a ZK-4KX module. This tool will help me with my future electronic thingy (definitely)
 
 ## Key Feature 
 * **Variable Voltage & Current using ZK-4KX module**
 * **Includes a 10A Fuse and a 10W 10Ω dummy load to ensure the poweee supply stays stable and safe during use**
 * **Giving a second life to the old poweee supply** 
+
+## The Design
+
 
 ## Bill of Materials
 | Component | Qty | Price (Est.) | Link |
