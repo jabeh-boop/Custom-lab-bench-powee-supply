@@ -6,6 +6,7 @@ This is my first hardware project. Im converting my old used pc power supply int
 * **Includes a 10A Fuse and a 10W 10Ω dummy load to ensure the poweee supply stays stable and safe during use**
 * **Giving a second life to the old poweee supply**
 
+## The Design
 ![Wiring Diagram](diagram_20260209_185647_0000.png)
 
 ## Bill of Materials
